@@ -1,0 +1,121 @@
+body {
+	background-image: url("../img/1.jpg");
+	width: 400px;
+	height: 200px;
+	margin-bottom: 10px
+}
+
+a{ text-decoration:none; color:#fff;}
+a:hover {text-decoration:underline;}
+
+
+body {
+background-image:url("../img/2.jpg");
+	
+	} 
+
+.contenedor{
+
+	background-color: #819FF7;
+	width: 1000px;
+	height: 200px;
+	margin-bottom: 10px
+}
+
+
+
+#inicio{
+	width: 7000px;
+	margin-left: auto;
+	margin-right: auto;
+    padding: 10px;
+    text-align: center;
+    
+    }
+
+  
+
+
+
+
+header{
+	background: #1A5276;
+}
+/*--logotipo---*/
+#logotipo{
+	width: 960px;
+	margin: auto;
+}
+
+header #logotipo nav {
+	
+	float: left;;
+	width: 660px;
+	padding: 20px 0px; 
+	text-align:right;
+
+}
+header #logotipo a{
+	float: left;
+	padding: 20px;
+	font-size: 30px;
+}
+
+#logotipo a:hover {text-decoration:none; }
+
+header #logotipo nav ul a {
+	color: #000;
+font-size:19.3px;
+padding: 10px;
+border-radius: 2px;
+-moz-border-radius:2px;
+-webkit-border-radius:2px;
+float: left;
+}
+
+header #logotipo nav ul a:hover {
+	color:#fff;
+	background:#1798af;
+	text-decoration:none;
+}
+header {
+	width: 100%;
+	float:left;
+}
+#w{
+	width: 960px;
+	margin: auto;
+	color: #fff;
+	text-align: justify;
+	padding: 10	px;
+	font-size: 25px;
+	font-family: arial;
+}
+#w {
+	width:960px;
+	margin:auto;
+	clear:both;
+}
+/*img{
+	height: 200px;
+	width: 700px;
+	padding: 10px;
+}*/
+.au a{
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+}
+/*-------------------*/
+.parra hover{
+	padding: 10px;
+	text-decoration: none;
+}
+.ti{
+	text-align: center;
+}
+.do{
+	text-align: justify;
+
+}
